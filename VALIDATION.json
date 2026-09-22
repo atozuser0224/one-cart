@@ -1,0 +1,22 @@
+{
+  "version": "v0.2.0-photon-dev",
+  "platform": "Windows x64",
+  "unity": "6000.5.5f1",
+  "network": "Photon Fusion 2.1.2 Host Mode",
+  "developmentBuild": false,
+  "buildErrors": 0,
+  "buildWarnings": 0,
+  "menu": "PASS",
+  "sameMachinePhotonTwoPlayer": "PASS",
+  "hostExitCode": 0,
+  "clientExitCode": 0,
+  "separateDevices": "NOT_RUN",
+  "fourPlayer": "NOT_RUN",
+  "realMicrophone": "NOT_RUN",
+  "fullGameplay": "NOT_RUN",
+  "archive": "ONE-CART-v0.2.0-photon-dev-Windows-x64.zip",
+  "bytes": 54466493,
+  "sha256": "2ab9fb23d83204d558213c8c1dc7183121bdbf009dfa6c725b99e056956cc31c",
+  "extractedFilesVerified": 232,
+  "utc": "2026-09-22T01:24:00.3229527Z"
+}
