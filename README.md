@@ -1,12 +1,14 @@
 # ONE CART
 
-Windows x64 · v0.2.0-photon-dev · 온라인 협동 개발 빌드
+Windows x64 · v0.2.1-photon-dev · 온라인 협동 개발 빌드
 
-[Windows 게임 다운로드](https://github.com/atozuser0224/one-cart/releases/download/v0.2.0-photon-dev/ONE-CART-v0.2.0-photon-dev-Windows-x64.zip) · [릴리즈 안내](https://github.com/atozuser0224/one-cart/releases/tag/v0.2.0-photon-dev)
+[Windows 게임 다운로드](https://github.com/atozuser0224/one-cart/releases/download/v0.2.1-photon-dev/ONE-CART-v0.2.1-photon-dev-Windows-x64.zip) · [수정 내역](RELEASE_NOTES.md)
 
-이 저장소는 실행 파일과 사용 안내를 제공하는 배포 저장소입니다.
+35초 후 연결 종료 문제를 수정한 버전입니다. 이 저장소는 실행 파일과 사용 안내를 제공하는 배포 저장소입니다.
 
 ## 실행
+
+**Alt+Enter 또는 F11**로 전체화면과 창 모드를 전환할 수 있습니다. 친구와 모두 같은 최신 버전을 사용하세요. 처음 화면에서는 하단의 **온라인 방으로 계속** 버튼을 누릅니다.
 
 ZIP 전체를 풀고 `OneCart.exe`를 실행하세요. 실행 파일, `OneCart_Data`, DLL 및 하위 폴더를 함께 유지해야 합니다. Windows x64와 인터넷 연결이 필요합니다.
 
@@ -20,7 +22,7 @@ ZIP 전체를 풀고 `OneCart.exe`를 실행하세요. 실행 파일, `OneCart_D
 
 ## 배포 및 문의
 
-- 릴리즈: https://github.com/atozuser0224/one-cart/releases/tag/v0.2.0-photon-dev
+- 릴리즈: https://github.com/atozuser0224/one-cart/releases/tag/v0.2.1-photon-dev
 - 문제 제보: https://github.com/atozuser0224/one-cart/issues
 
 문제를 제보할 때 버전, 발생 단계, 호스트/참가자 여부를 적어 주세요. 비밀번호나 인증 토큰은 올리지 마세요.

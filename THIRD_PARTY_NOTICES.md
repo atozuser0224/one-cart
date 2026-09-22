@@ -1,6 +1,6 @@
 # Third-party notices
 
-ONE CART v0.2.0-photon-dev uses the following third-party components. Their respective terms apply to those components. This distribution does not grant a license to redistribute third-party asset source packages independently.
+ONE CART v0.2.1-photon-dev uses the following third-party components. Their respective terms apply to those components. This distribution does not grant a license to redistribute third-party asset source packages independently.
 
 - **Unity 6000.5.5f1**, Unity Technologies: engine, Mono runtime and Unity runtime packages. Included package license and notice texts are in `Licenses/UnityPackages/`.
 - **Photon Fusion 2.1.2 / Photon Realtime**, Exit Games: online networking runtime and Photon Cloud service. https://www.photonengine.com/
